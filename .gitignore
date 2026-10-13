@@ -1,0 +1,6 @@
+# zverejňuje sa len toto:
+*
+!index.html
+!robots.txt
+!.nojekyll
+!.gitignore
