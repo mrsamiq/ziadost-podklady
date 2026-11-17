@@ -4,3 +4,5 @@
 !robots.txt
 !.nojekyll
 !.gitignore
+!doplnenie/
+!doplnenie/index.html
